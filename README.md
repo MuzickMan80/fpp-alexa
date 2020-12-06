@@ -1,3 +1,3 @@
-# fpp-plugin-Template
-Template plugin for FPP Plugin developers
+# fpp-alexa
+Adds support for Alexa Skills to the Falcon Player.
 

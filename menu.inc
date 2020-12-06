@@ -13,7 +13,7 @@
 
 $menuEntries = Array(
 	Array(
-		'text' => 'Template - Status',
+		'text' => 'Alexa - Status',
 		'type' => 'status',
 		'page' => 'status.php',
 		'wrap' => 1
@@ -31,19 +31,19 @@ $menuEntries = Array(
 #		'wrap' => 1
 #	),
 	Array(
-		'text' => 'Template - Help',
+		'text' => 'Alexa - Help',
 		'type' => 'help',
 		'page' => 'help/help.php',
 		'wrap' => 1
 	),
 	Array(
-		'text' => 'Template - Home',
+		'text' => 'Alexa - Home',
 		'type' => 'help',
-		'page' => 'https://github.com/FalconChristmas/fpp-plugin-Template',
+		'page' => 'https://github.com/MuzickMan80/fpp-alexa',
 		'wrap' => 1
 	),
 	Array(
-		'text' => 'Template - About',
+		'text' => 'Alexa - About',
 		'type' => 'help',
 		'page' => 'about.php',
 		'wrap' => 1

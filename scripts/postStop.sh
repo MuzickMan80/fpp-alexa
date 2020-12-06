@@ -1,4 +1,4 @@
 #!/bin/sh
 
-#echo "Running fpp-plugin-Template PostStop Script"
+#echo "Running fpp-alexa PostStop Script"
 

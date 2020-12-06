@@ -6,10 +6,10 @@
       <div id='credits'>
         <b>Template Plugin Developed By:</b><br />
 		<br />
-        John Doe (jdoe)<br />
+        Dale Peterson<br />
 		<br />
-        <a href='https://github.com/FalconChristmas/fpp-plugin-Template'>Git Repository</a><br>
-        <a href='https://github.com/FalconChristmas/fpp-plugin-Template/issues'>Bug Reporter</a><br>
+        <a href='https://github.com/MuzickMan80/fpp-alexa'>Git Repository</a><br>
+        <a href='https://github.com/MuzickMan80/issues'>Bug Reporter</a><br>
 		<br />
       </div>
     </div>
