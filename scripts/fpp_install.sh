@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # fpp-alexa install script
-apt-get update
-apt-get install nodejs npm flask flask-ask
-npm install -g localtunnel
+sudo apt-get update
+sudo apt-get -f install nodejs npm flask flask-ask
+sudo npm install -g localtunnel
 
